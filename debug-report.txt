@@ -14,4 +14,7 @@ instead of
   box.style.backgroundColor = 
         box.style.backgroundColor === "blue" ? "red" : "blue"; 
 
+Used DevTools to see any errors the consol caught in the code.
+Learened to makesure everything is spelled correctly going over it multiple times.
+
 

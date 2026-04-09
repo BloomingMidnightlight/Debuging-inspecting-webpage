@@ -1,0 +1,17 @@
+Misspelling of words found in the CSS and JS. 
+i.e:
+  JS "bx" instead of "box" . 
+
+  CSS "non" instead of "none" 
+
+  two ";;" instead of ";"
+  
+Seemingly incomplete action/ code in JS 
+i.e: 
+  bx.style.backgroundColor = "blue"; 
+instead of 
+  
+  box.style.backgroundColor = 
+        box.style.backgroundColor === "blue" ? "red" : "blue"; 
+
+
